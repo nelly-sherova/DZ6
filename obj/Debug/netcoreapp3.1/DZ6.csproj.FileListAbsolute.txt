@@ -1,0 +1,13 @@
+C:\Users\ASUS\Desktop\My Projects\DZ6\obj\Debug\netcoreapp3.1\DZ6.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\My Projects\DZ6\obj\Debug\netcoreapp3.1\DZ6.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\My Projects\DZ6\obj\Debug\netcoreapp3.1\DZ6.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\My Projects\DZ6\obj\Debug\netcoreapp3.1\DZ6.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\My Projects\DZ6\bin\Debug\netcoreapp3.1\DZ6.exe
+C:\Users\ASUS\Desktop\My Projects\DZ6\bin\Debug\netcoreapp3.1\DZ6.deps.json
+C:\Users\ASUS\Desktop\My Projects\DZ6\bin\Debug\netcoreapp3.1\DZ6.runtimeconfig.json
+C:\Users\ASUS\Desktop\My Projects\DZ6\bin\Debug\netcoreapp3.1\DZ6.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\My Projects\DZ6\bin\Debug\netcoreapp3.1\DZ6.dll
+C:\Users\ASUS\Desktop\My Projects\DZ6\bin\Debug\netcoreapp3.1\DZ6.pdb
+C:\Users\ASUS\Desktop\My Projects\DZ6\obj\Debug\netcoreapp3.1\DZ6.dll
+C:\Users\ASUS\Desktop\My Projects\DZ6\obj\Debug\netcoreapp3.1\DZ6.pdb
+C:\Users\ASUS\Desktop\My Projects\DZ6\obj\Debug\netcoreapp3.1\DZ6.genruntimeconfig.cache
